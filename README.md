@@ -2,7 +2,7 @@
 Coffee Shop project we'll build and style a drinks and snacks menu for a local coffee shop.
 
 
-That is the **HTML code ** of our menu as a base: 
+That is the first parte of our **HTML code ** of our menu as a base: 
 
 
 <!doctype html>
@@ -25,7 +25,7 @@ That is the **HTML code ** of our menu as a base:
   </body>
 </head>
 
-That is the CSS code to style our coffee menu: 
+That is the first part of our CSS code to style our coffee menu: 
 
 .header { 
   color: #5A2D0C;
